@@ -7,3 +7,4 @@ puts hello + hello
 
 animaux = [["Chien", "chat", "oiseau"]]
 puts animaux[0][1]
+
